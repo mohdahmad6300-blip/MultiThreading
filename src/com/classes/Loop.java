@@ -11,7 +11,7 @@ public class Loop extends Thread
 		
 		try
 		{
-			Thread.sleep(1000);
+			Thread.sleep(500);
 		}
 		catch (Exception e) 
 		{
